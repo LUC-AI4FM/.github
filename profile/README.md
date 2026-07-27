@@ -31,6 +31,7 @@ Our mission is to:
 
 ### Students
 * [Arslan Bisharat](https://marslan.cs.luc.edu/)
+* [Eric Spencer](https://ericspencer.us)
 ---
 
 This organization hosts repositories supporting:
